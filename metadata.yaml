@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1177
     wikipedia: http://en.wikipedia.org/wiki/Ellen_Wood_%28author%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15627#Verner-s-Pride
 gutenberg_issued: '2005-04-15'
 gutenberg_type: Text
 identifiers:
